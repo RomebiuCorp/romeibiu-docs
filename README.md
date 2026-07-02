@@ -20,7 +20,7 @@
 
 如有疑问或建议，请通过以下方式联系：
 - 邮箱：contact@romebiu.cn
-- 提交 Issue：https://github.com/[你的用户名]/romeibiu-docs/issues
+- 提交 Issue：https://github.com/RomebiuCorp/romeibiu-docs/issues
 - 哔哩哔哩：@RomebiuCorp
 
 ## 版权声明
