@@ -7,7 +7,7 @@
 ## 文档列表
 
 ### 已发布
-- **[RCP 标准规范指导手册](./RCP_Standard_Guide_v1.0_Rev20260702.pdf)** — Romebiu Central Project 的完整规则与指引（2026年7月2日修订）
+- **[RCP 标准规范指导手册](./RCP%20%E6%A0%87%E5%87%86%E8%A7%84%E8%8C%83%E6%8C%87%E5%AF%BC%E6%89%8B%E5%86%8C/RCP%20%E6%A0%87%E5%87%86%E8%A7%84%E8%8C%83%E6%8C%87%E5%AF%BC%E6%89%8B%E5%86%8C_v1.0_Rev20260702.pdf)** — Romebiu Central Project 的完整规则与指引（2026年7月2日修订）
 
 ### 规划中
 - 成员申请流程说明（待补充）
