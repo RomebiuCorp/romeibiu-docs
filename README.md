@@ -1,8 +1,8 @@
-# Romebiu Corporation 文档中心
+# Romebiu Corporation 文档仓库
 
 欢迎来到 Romebiu Corporation 的官方文档仓库。
 
-本仓库集中存放工作室对外发布的所有规范文档、标准手册及创作者指南。
+本仓库集中存放工作室对外发布的所有规范文档、标准手册及创作者指南等。
 
 ## 文档列表
 
